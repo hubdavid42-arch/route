@@ -2,7 +2,8 @@
   "users": {
     "Felix65290": {
       "key": "p",
-      "days": 5
+      "days": 5,
+      "start": 0
     }
   }
 }
