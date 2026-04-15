@@ -2,7 +2,7 @@
   "users": {
     "Felix65290": {
       "key": "p",
-      "expire": 5
+      "days": 5
     }
   }
 }
